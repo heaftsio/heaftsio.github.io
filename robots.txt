@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heaftsio.github.io/sitemap.html.gz
+Sitemap: https://heaftsio.github.io/app/sitemap.html.gz
+Sitemap: https://heaftsio.github.io/assets/sitemap.html.gz
+Sitemap: https://heaftsio.github.io/css/sitemap.html.gz
+Sitemap: https://heaftsio.github.io/includes/sitemap.html.gz
+Sitemap: https://heaftsio.github.io/item/sitemap.html.gz
+Sitemap: https://heaftsio.github.io/src/sitemap.html.gz
